@@ -33,7 +33,7 @@ A terminal-based (TUI) cybersecurity toolkit with arrow-key navigation, built fo
 pkg update && pkg upgrade -y
 pkg install python -y
 pip install requests python-whois dnspython
-git clone https://github.com/<your-username>/hardmux.git
+git clone https://github.com/drhakoo-beep/hardmux.git
 cd hardmux
 python main.py
 ```
@@ -44,7 +44,7 @@ python main.py
 sudo apt update
 sudo apt install python3 python3-pip traceroute -y
 pip3 install requests python-whois dnspython
-git clone https://github.com/<your-username>/hardmux.git
+git clone https://github.com/drhakoo-beep/hardmux.git
 cd hardmux
 python3 main.py
 ```
