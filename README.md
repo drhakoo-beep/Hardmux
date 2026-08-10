@@ -81,6 +81,10 @@ hardmux/
 - All network and OSINT tools require an active internet connection where noted; some require the optional packages listed in `requirements.txt`.
 - This tool is intended for use on systems and networks you own or have explicit authorization to test. You are responsible for complying with the laws that apply to you.
 
+# Support
+
+drhako42@gmail.com
+
 ## License
 
 MIT License. Feel free to fork, modify, and open pull requests.
