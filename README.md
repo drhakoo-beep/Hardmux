@@ -87,7 +87,7 @@ drhako42@gmail.com
 
 ## Disclaimer
 
-You are responsible for any illegal use. The vehicle should only be used for ethical purposes.
+You are responsible for any illegal use. The tool should only be used for ethical purposes.
 
 ## License
 
