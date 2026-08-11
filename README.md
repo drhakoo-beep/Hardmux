@@ -85,6 +85,10 @@ hardmux/
 
 drhako42@gmail.com
 
+## Disclaimer
+
+You are responsible for any illegal use. The vehicle should only be used for ethical purposes.
+
 ## License
 
 MIT License. Feel free to fork, modify, and open pull requests.
